@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Ct-Blog',
-  domain: 'blog.cuctut.ct',
+  domain: 'blog.cuctut.cc',
   author: 'Cuctut',
 
   // open graph metadata (optional)
   description: 'Wow! Ct\'s world!',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'Cuctut',
+  github: 'Cuctut',
+  linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -43,8 +43,7 @@ export default siteConfig({
   // example:
   //
   pageUrlOverrides: {
-    '/foo': '067dd719a912471ea9a3ac10710e7fdf',
-    '/bar': '0be6efce9daf42688f65c76b89f8eb27'
+    '/P': 'e2401ac45a1048d29070f056fb5904ff'
   },
   // pageUrlOverrides: null,
 
