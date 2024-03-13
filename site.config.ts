@@ -43,7 +43,7 @@ export default siteConfig({
   // example:
   //
   pageUrlOverrides: {
-    '/P': 'e2401ac45a1048d29070f056fb5904ff'
+    '/cuctut': '87c93bd54dcd4940af617bf47bfc2a68'
   },
   // pageUrlOverrides: null,
 
