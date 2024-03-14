@@ -22,7 +22,7 @@ export default siteConfig({
   // linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  youtube: 'Cuctut', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: '@Cuctut', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -54,7 +54,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: '29d3d1f542904ba3943c53422fb7a3d2'
+      pageId: 'about-me-29d3d1f542904ba3943c53422fb7a3d2'
     },
     {
       title: 'Contact',
