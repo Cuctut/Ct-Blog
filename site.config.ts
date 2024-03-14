@@ -43,18 +43,18 @@ export default siteConfig({
   // example:
   //
   pageUrlOverrides: {
-    '/cuctut': '87c93bd54dcd4940af617bf47bfc2a68'
+    '/cuctut': '87c93bd54dcd4940af617bf47bfc2a68',
   },
   // pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
-  // navigationStyle: 'default'
+  // navigationStyle: 'default',
   navigationStyle: 'custom',
   navigationLinks: [
     {
       title: 'About',
-      pageId: 'about-me-29d3d1f542904ba3943c53422fb7a3d2'
+      pageId: '29d3d1f542904ba3943c53422fb7a3d2'
     },
     {
       title: 'Contact',
